@@ -2,6 +2,6 @@
 
 <img src="https://github.com/uttamaPrh/Music-Website/blob/main/home.png" alt="Alt text" title="Optional title">
 
-#  🎵 Music Section:
+#  🎵 Track Section:
 
-<img src="https://github.com/uttamaPrh/Music-Website/blob/main/home.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/uttamaPrh/Music-Website/blob/main/track.png" alt="Alt text" title="Optional title">
