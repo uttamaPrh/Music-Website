@@ -2,10 +2,13 @@
 
 <img src="https://github.com/uttamaPrh/Music-Website/blob/main/home.png" alt="Alt text" title="Optional title">
 
-#  🎙️ Recording Section:
+#  🎙️ Track Section:
 
-<img src="https://github.com/uttamaPrh/Music-Website/blob/main/recording.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/uttamaPrh/Music-Website/blob/main/Web capture_23-7-2021_64728_.jpeg" alt="Alt text" title="Optional title">
 
-#  🎵 Track Section:
+#  🎵 Recording Section:
 
 <img src="https://github.com/uttamaPrh/Music-Website/blob/main/track.png" alt="Alt text" title="Optional title">
+
+#  🎵 Music Section:
+
