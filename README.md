@@ -2,6 +2,10 @@
 
 <img src="https://github.com/uttamaPrh/Music-Website/blob/main/home.png" alt="Alt text" title="Optional title">
 
+#  🎙️ Recording Section:
+
+<img src="https://github.com/uttamaPrh/Music-Website/blob/main/recording.png" alt="Alt text" title="Optional title">
+
 #  🎵 Track Section:
 
 <img src="https://github.com/uttamaPrh/Music-Website/blob/main/track.png" alt="Alt text" title="Optional title">
